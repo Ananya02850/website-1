@@ -1,3 +1,5 @@
+Logr - An Amazing Project
+
 Mono Project Website [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
 ==================================================================================================================
 
